@@ -375,3 +375,9 @@ img {
     padding-top: 96px;
     padding-bottom: 120px;
 }
+
+.team-social-links > svg {
+    display:block;
+    width: 100%;
+    height: 100%;
+}
