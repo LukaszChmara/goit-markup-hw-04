@@ -533,6 +533,6 @@ color: var(--pressed-state)
     background-color: var(--success);
 }
 
-.social-icon {
+.social-icon-footer {
     fill: var(--default-buttons-background);
 }
